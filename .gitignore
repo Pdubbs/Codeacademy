@@ -42,3 +42,9 @@ Thumbs.db
 .RData
 .Rhistory
 .*~
+
+#images#
+########
+*.jpg
+*.jpeg
+*.png
