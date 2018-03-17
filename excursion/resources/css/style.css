@@ -20,11 +20,11 @@ h2 {
 	font-size: 16px;
 }
 
-.tagline {
+.tagline, .footer {
 	color: gray;
 	font-size: 21px;
 }
 
-#copyright {
+.footer {
 	text-align: right;
 }
