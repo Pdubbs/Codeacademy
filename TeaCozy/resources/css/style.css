@@ -91,6 +91,7 @@ nav a {
 #tea {
   width: 1000px;
   margin: auto;
+  padding-top: 50px;
 }
 
 #tea .item {
@@ -107,7 +108,7 @@ nav a {
 /* Locations */
 
 #locations { 
-  margin: auto;
+  margin: 50 auto 0 auto;
   height: 500px;
   width: 1200px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
@@ -115,7 +116,7 @@ nav a {
 
 #locations h2 {
   width: 100%;
-  padding-top: 90px;
+  padding-top: 80px;
   padding-bottom: 15px;
   margin: 0px;
 }
